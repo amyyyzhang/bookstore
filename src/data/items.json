@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Crying in H Mart - Michelle Zavner",
+        "price": 12.99,
+        "imgUrl": "/img/hmart.jpeg"
+    },
+
+    {
+        "id": 2,
+        "name": "Normal People - Salley Rooney",
+        "price": 10.99,
+        "imgUrl": "/img/normalppl.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "I Wished - Dennis Cooper",
+        "price": 14.99,
+        "imgUrl": "/img/wish.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Cleopatra and Frankenstein - Coco Mellors",
+        "price": 19.99,
+        "imgUrl": "/img/frank.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Before the Coffee Gets Cold - Toshikazu Kawaguchi",
+        "price": 14.99,
+        "imgUrl": "/img/coffee.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin",
+        "price": 15.99,
+        "imgUrl": "/img/tmrw.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Someone Who Will Love You in All Your Damaged Glory - Raphael Bob-Waksberg",
+        "price": 14.99,
+        "imgUrl": "/img/love.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "The Woman Destroyed - Simone De Beauvoir",
+        "price": 14.99,
+        "imgUrl": "/img/destroyed.jpg"
+    },
+    {
+        "id": 9,
+        "name": "My Year of Rest and Relaxation - Ottessa Moshfegh",
+        "price": 12.99,
+        "imgUrl": "/img/year.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Where the Crawdads Sing - Delia Owens",
+        "price": 10.99,
+        "imgUrl": "/img/craw.jpg"
+    },
+
+    {
+
+        "id": 11,
+        "name": "Temporary People - Deepak Unnikrishan",
+        "price": 10.99,
+        "imgUrl": "/img/temp.jpg"
+      
+    },
+
+    {
+
+        "id": 12,
+        "name": "Patriotism - Yukio Mishima",
+        "price": 9.99,
+        "imgUrl": "/img/pat.jpg"
+    }
+
+
+
+
+
+
+
+
+
+]
